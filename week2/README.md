@@ -60,4 +60,10 @@ Node.js adalah lingkungan runtime sisi server yang memungkinkan pengguna menjala
 
 Kelebihan:
 
-- 'Penulisan kode di Node Js sangat mudah dan kerap dinilai oleh para pengembang seperti membaca bahasa manusia. '
+- `bahasa mudah dipahami dan banyak dipakai di web developer yang saya tau.`
+
+Kekurangan:
+
+- `Waktu pengembangan yang dibutuhkan lebih banyak karena developer menulis semuanya dari nol.`
+
+![images/01.png](images/01.png)
