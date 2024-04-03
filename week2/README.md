@@ -4,14 +4,6 @@
 - NPM
 - NVM
 
-bash script:
-```text
-> bash day3/INSTALL
-nginx already installed...
-nodejs already installed...
-npm already installed...
-nvm already installed...
-```
 
 ###HTOP/NMON
 1. htop:
@@ -61,3 +53,11 @@ sudo apt install nmon
 ```
 
 Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
+
+3. Node.js:
+
+Node.js adalah lingkungan runtime sisi server yang memungkinkan pengguna menjalankan kode JavaScript di sisi server
+
+Kelebihan:
+
+- 'Penulisan kode di Node Js sangat mudah dan kerap dinilai oleh para pengembang seperti membaca bahasa manusia. '
