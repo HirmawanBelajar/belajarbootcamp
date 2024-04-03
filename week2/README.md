@@ -66,4 +66,4 @@ Kekurangan:
 
 - `Waktu pengembangan yang dibutuhkan lebih banyak karena developer menulis semuanya dari nol.`
 
-![images/01.png](images/01.png)
+![image/01.png](image/01.png)
