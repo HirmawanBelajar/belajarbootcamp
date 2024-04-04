@@ -1,10 +1,10 @@
-###Penjelasan Monolith dan Microservices
+### Penjelasan Monolith dan Microservices
 
 Monolith: Aplikasi monolith adalah aplikasi yang dibangun sebagai satu unit besar yang terdiri dari seluruh komponen dan fitur yang dibutuhkan. Semua komponen, seperti antarmuka pengguna (UI), layanan, basis data, dan logika bisnis, dikemas dan dijalankan dalam satu proses tunggal
 
 Microservices: Microservices adalah pendekatan arsitektur di mana aplikasi dibagi menjadi beberapa layanan kecil yang terpisah, mandiri, dan dapat dijalankan secara independen. Setiap mikroservice bertanggung jawab atas tugas atau fungsi spesifik dan dapat dikembangkan, diperbarui, dan diskalakan secara terpisah.
 
-##Perbedaan Monolith dan Microservices
+## Perbedaan Monolith dan Microservices
 
 1. Skalabilitas: Dalam arsitektur monolith, jika satu bagian aplikasi membutuhkan lebih banyak sumber daya, seluruh aplikasi harus diskalakan. Sebaliknya, dalam arsitektur microservices, setiap layanan dapat diskalakan secara independen sesuai dengan kebutuhan, sehingga lebih efisien dan fleksibel.
 2. Teknologi: Dalam arsitektur monolith, seluruh aplikasi umumnya menggunakan teknologi yang sama. Sedangkan dalam arsitektur microservices, setiap layanan dapat menggunakan teknologi yang berbeda-beda sesuai dengan kebutuhan spesifik layanan tersebut
@@ -12,7 +12,7 @@ Microservices: Microservices adalah pendekatan arsitektur di mana aplikasi dibag
 4. Ketahanan (Resilience): Dalam arsitektur monolith, jika satu komponen gagal, seluruh aplikasi akan terganggu. Namun, dalam arsitektur microservices, jika satu layanan gagal, layanan lain dapat tetap berjalan, sehingga meminimalkan gangguan pada seluruh aplikasi.
 5. Kompleksitas: Arsitektur monolith umumnya lebih sederhana dalam hal pengembangan dan penyebaran, tetapi dapat menjadi lebih kompleks saat aplikasi tumbuh besar. Sedangkan arsitektur microservices dapat menjadi lebih kompleks dalam hal manajemen dan komunikasi antar layanan, tetapi lebih mudah dalam hal skalabilitas dan pemeliharaan.
 
-##Contoh Aplikasi dalam Monolith dan Microservices
+## Contoh Aplikasi dalam Monolith dan Microservices
 
 monolith: contoh matahari.com Dalam arsitektur monolith, seluruh fitur aplikasi, seperti katalog produk, keranjang belanja, metode pembayaran, pengiriman, dan manajemen akun, dikemas dalam satu aplikasi besar.
 
