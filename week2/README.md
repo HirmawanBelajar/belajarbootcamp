@@ -47,6 +47,13 @@ sudo apt install nmon
 
 Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
+### Penjelasan Text Manipulation step by step
 
+1. Grep digunakan mencari kata pada file yang dicari
+
+`Contoh Grep`
+![image/04.png](image/04.png)
+
+2. Echo digunakan untuk mencetak string / pesan dari hasil perintah lain
 
 
