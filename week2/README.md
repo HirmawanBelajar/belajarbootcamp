@@ -56,4 +56,7 @@ Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
 2. Echo digunakan untuk mencetak string / pesan dari hasil perintah lain
 
+`Contoh Echo`
+
+
 
