@@ -4,8 +4,6 @@
 - NPM
 - NVM
 
-
-###HTOP/NMON
 1. htop:
 
 htop adalah alat baris perintah yang membantu memantau sumber daya dan kinerja sistem pada Linux.
@@ -58,6 +56,11 @@ Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
 Node.js adalah lingkungan runtime sisi server yang memungkinkan pengguna menjalankan kode JavaScript di sisi server
 
+Cara Menginstal nmon (Ubuntu/Debian):
+
+```sh
+brew install node
+```
 Kelebihan:
 
 - `bahasa mudah dipahami dan banyak dipakai di web developer yang saya tau.`
