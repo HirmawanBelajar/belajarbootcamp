@@ -1,3 +1,4 @@
+### Penjelasan htop dan nmon
 1. htop:
 
 htop adalah alat baris perintah yang membantu memantau sumber daya dan kinerja sistem pada Linux.
