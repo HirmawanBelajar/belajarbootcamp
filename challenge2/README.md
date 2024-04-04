@@ -19,9 +19,6 @@ Kekurangan:
 
 Node Package Manager atau NPM adalah package manager dan repositori software dalam bahasa pemrograman JavaScript yang digunakan untuk memasang, menghapus, dan mengelola library atau package software dalam proyek pengembangan aplikasi.
 
-`Check NPM dan Node.js`
-![image/03.png](image/03.png)
-
 3. NVM:
 
 NVM (Node Version Manager) adalah sebuah tool yang dapat memudahkan developer dalam instalasi dan mengatur banyak versi Node.js sekaligus di atas satu environment
@@ -30,3 +27,6 @@ NVM (Node Version Manager) adalah sebuah tool yang dapat memudahkan developer da
 sudo apt install curl
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
 ```
+
+`Check NPM dan Node.js`
+![image/03.png](image/03.png)
