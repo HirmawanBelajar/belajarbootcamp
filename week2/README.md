@@ -52,5 +52,5 @@ Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 Grep digunakan mencari kata pada file yang dicari
 
 `Contoh Grep`
-![images/02_adapater_realtek_ethernet_allowed.png](images/02_adapater_realtek_ethernet_allowed.png)
+![image/04.png](image/04.png)
 
