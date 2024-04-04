@@ -47,10 +47,6 @@ sudo apt install nmon
 
 Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
-### Penjelasan Text Manipulation step by step
 
-Grep digunakan mencari kata pada file yang dicari
 
-`Contoh Grep`
-![image/04.png](image/04.png)
 
