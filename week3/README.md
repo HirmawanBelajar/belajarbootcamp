@@ -1,4 +1,4 @@
-### Penjelasan Monolith dan Microservices
+# Penjelasan Monolith dan Microservices
 
 Monolith: Aplikasi monolith adalah aplikasi yang dibangun sebagai satu unit besar yang terdiri dari seluruh komponen dan fitur yang dibutuhkan. Semua komponen, seperti antarmuka pengguna (UI), layanan, basis data, dan logika bisnis, dikemas dan dijalankan dalam satu proses tunggal
 
