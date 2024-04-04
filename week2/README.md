@@ -57,6 +57,6 @@ Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 2. Echo digunakan untuk mencetak string / pesan dari hasil perintah lain
 
 `Contoh Echo`
-
+![image/05.png](image/05.png)
 
 
