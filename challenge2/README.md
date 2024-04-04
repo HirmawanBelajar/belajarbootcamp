@@ -28,7 +28,7 @@ sudo apt install curl
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
 ```
 
-`Check NPM dan Node.js`
+`Check NPM,Node.js,dan NPM`
 
 
 ![image/06.png](image/06.png)
