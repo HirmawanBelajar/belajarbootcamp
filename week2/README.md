@@ -60,4 +60,9 @@ Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
 ![image/05.png](image/05.png)
 
+### Penjelasan Install Nginx
+Nginx adalah salah satu server web terpopuler di dunia dan berperan sebagai hos dari sebagian situs terbesar dan situs yang memiliki lalu lintas tertinggi di jagad internet. Ini adalah pilihan ringan yang dapat digunakan baik sebagai server web atau proksi balik.
 
+```sh
+sudo apt install nginx
+```
