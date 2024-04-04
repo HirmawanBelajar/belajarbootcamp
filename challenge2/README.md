@@ -29,4 +29,4 @@ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 ```
 
 `Check NPM dan Node.js`
-![image/03.png](image/03.png)
+![image/06.png](image/06.png)
