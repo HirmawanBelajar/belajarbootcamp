@@ -47,4 +47,10 @@ sudo apt install nmon
 
 Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
+### Penjelasan Text Manipulation step by step
+
+Grep digunakan mencari kata pada file yang dicari
+
+`Contoh Grep`
+![images/02_adapater_realtek_ethernet_allowed.png](images/02_adapater_realtek_ethernet_allowed.png)
 
