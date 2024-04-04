@@ -1,9 +1,3 @@
-###Bash Script Auto Installer
-- Nginx
-- Nodejs
-- NPM
-- NVM
-
 1. htop:
 
 htop adalah alat baris perintah yang membantu memantau sumber daya dan kinerja sistem pada Linux.
@@ -52,21 +46,4 @@ sudo apt install nmon
 
 Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
-3. Node.js:
 
-Node.js adalah lingkungan runtime sisi server yang memungkinkan pengguna menjalankan kode JavaScript di sisi server
-
-Cara Menginstal node dan npm(Ubuntu/Debian):
-
-```sh
-brew install node
-```
-Kelebihan:
-
-- `bahasa mudah dipahami dan banyak dipakai di web developer yang saya tau.`
-
-Kekurangan:
-
-- `Waktu pengembangan yang dibutuhkan lebih banyak karena developer menulis semuanya dari nol.`
-
-![image/03.png](image/03.png)
