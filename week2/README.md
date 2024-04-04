@@ -56,7 +56,7 @@ Keduanya memiliki kegunaan yang berbeda, tergantung pada kebutuhan.
 
 Node.js adalah lingkungan runtime sisi server yang memungkinkan pengguna menjalankan kode JavaScript di sisi server
 
-Cara Menginstal nmon (Ubuntu/Debian):
+Cara Menginstal node dan npm(Ubuntu/Debian):
 
 ```sh
 brew install node
