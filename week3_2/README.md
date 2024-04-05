@@ -31,5 +31,10 @@ server {
 11. npm install
 12. npm start
 
+edit my.reverse-proxy.conf
+![images/17.png](images/17.png)
+
+masuk ke front-end
+![images/18.png](images/18.png)
 
 Load Balancing adalah suatu jaringan komputer yang menggunakan metode untuk mendistribusikan beban kerjaan pada dua atau bahkan lebih suatu koneksi jaringan secara seimbang agar pekerjaan dapat berjalan optimal dan tidak overload (kelebihan) beban pada salah satu jalur koneksi.
