@@ -26,6 +26,6 @@ Setiap layanan ini dibangun, dijalankan, dan diskalakan secara terpisah, tetapi 
 
 Cara Untuk Mendeploy Node.js
 
-![image/10.png](image/10.png)
-![image/10.png](image/11.png)
-![image/10.png](image/12.png)
+![images/10.png](images/10.png)
+![images/11.png](images/11.png)
+![images/12.png](images/12.png)
