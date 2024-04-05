@@ -23,3 +23,6 @@ Layanan Pembayaran: Menangani pembayaran cash/gopay/pakai kartu debit digital.
 Layanan Akun Pengguna: Mengelola informasi akun pengguna dan lain-lain
 
 Setiap layanan ini dibangun, dijalankan, dan diskalakan secara terpisah, tetapi bekerja sama untuk menyediakan fungsionalitas lengkap aplikasi gojek.
+
+
+![image/04.png](image/04.png)
