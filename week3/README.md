@@ -29,3 +29,6 @@ Cara Untuk Mendeploy Node.js
 ![images/10.png](images/10.png)
 ![images/11.png](images/11.png)
 ![images/12.png](images/12.png)
+
+Cara untuk mendeploy python
+
