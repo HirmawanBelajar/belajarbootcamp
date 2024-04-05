@@ -4,6 +4,7 @@ Web Server adalah sebuah software yang memberikan layanan berupa data. Berfungsi
 
 saya bikin proxy seperti ini
 
+```sh
 server {
     listen 80;
     server_name ramadhanhirmawan.xyz;
@@ -15,6 +16,7 @@ server {
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
     }
 }
+```
 
 1. cd dumbways
 2. sudo nano my.reverse-proxy.conf masukan konfigurasi diatas
