@@ -37,5 +37,11 @@ Setiap layanan ini dibangun, dijalankan, dan diskalakan secara terpisah, tetapi 
 ![images/14.png](images/14.png)
 
 ### Cara Untuk Mendeploy Golang
+1. Download go : 	
+wget htExtract dan copy data
+2. rm -rf /usr/local/go && tar -C /usr/local -xzf go1.16.5.linux-amd64.tar.gz && exit tps://golang.org/dl/go1.16.5.linux-amd64.tar.gz && sudo su
+3. Masukkan path go pada bashrc
+export PATH=$PATH:/usr/local/go/bin
+4. Sesuai Gambar di bawah
 
 ![images/16.png](images/16.png)
