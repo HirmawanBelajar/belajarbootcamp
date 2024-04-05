@@ -16,18 +16,18 @@ server {
     }
 }
 
-cd dumbways
-sudo nano my.reverse-proxy.conf masukan konfigurasi diatas
-cd ..
-sudo nano nginx.conf tambahkan di ###virual hosts config tambahkan include /etc/nginx/dumbways/*
-sudo nginx -t
-sudo systemctl restart nginx
-sudo nano /etc/hosts masukkan ip
-git clone https://github.com/dumbwaysdev/dumbflix-frontend.git
-lalu buka terminal baru
-cd dumbflix-frontend
-npm install
-npm start
+1. cd dumbways
+2. sudo nano my.reverse-proxy.conf masukan konfigurasi diatas
+3. cd ..
+4. sudo nano nginx.conf tambahkan di ###virual hosts config tambahkan include /etc/nginx/dumbways/*
+5. sudo nginx -t
+6. sudo systemctl restart nginx
+7. sudo nano /etc/hosts masukkan ip
+8. git clone https://github.com/dumbwaysdev/dumbflix-frontend.git
+9. lalu buka terminal baru
+10. cd dumbflix-frontend
+11. npm install
+12. npm start
 
 
 Load Balancing adalah suatu jaringan komputer yang menggunakan metode untuk mendistribusikan beban kerjaan pada dua atau bahkan lebih suatu koneksi jaringan secara seimbang agar pekerjaan dapat berjalan optimal dan tidak overload (kelebihan) beban pada salah satu jalur koneksi.
