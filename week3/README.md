@@ -24,11 +24,14 @@ Layanan Akun Pengguna: Mengelola informasi akun pengguna dan lain-lain
 
 Setiap layanan ini dibangun, dijalankan, dan diskalakan secara terpisah, tetapi bekerja sama untuk menyediakan fungsionalitas lengkap aplikasi gojek.
 
-Cara Untuk Mendeploy Node.js
+###Cara Untuk Mendeploy Node.js
 
 ![images/10.png](images/10.png)
 ![images/11.png](images/11.png)
 ![images/12.png](images/12.png)
 
-Cara untuk mendeploy python
+###Cara untuk mendeploy python
 
+![images/13.png](images/13.png)
+![images/15.png](images/15.png)
+![images/14.png](images/14.png)
