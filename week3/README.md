@@ -30,8 +30,12 @@ Setiap layanan ini dibangun, dijalankan, dan diskalakan secara terpisah, tetapi 
 ![images/11.png](images/11.png)
 ![images/12.png](images/12.png)
 
-### Cara untuk mendeploy python
+### Cara Untuk Mendeploy Python
 
 ![images/13.png](images/13.png)
 ![images/15.png](images/15.png)
 ![images/14.png](images/14.png)
+
+### Cara Untuk Mendeploy Golang
+
+![images/16.png](images/16.png)
